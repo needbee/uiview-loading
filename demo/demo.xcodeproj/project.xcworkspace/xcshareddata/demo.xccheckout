@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9370F01E-B959-4B12-A420-608C50DAB784</string>
+	<key>IDESourceControlProjectName</key>
+	<string>demo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E24BD2B8-5544-4D9E-8C35-D78FF40448A8</key>
+		<string>https://github.com/needbee/uiview-loading.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>demo/demo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E24BD2B8-5544-4D9E-8C35-D78FF40448A8</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/needbee/uiview-loading.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E24BD2B8-5544-4D9E-8C35-D78FF40448A8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E24BD2B8-5544-4D9E-8C35-D78FF40448A8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UIView+Loading</string>
+		</dict>
+	</array>
+</dict>
+</plist>
